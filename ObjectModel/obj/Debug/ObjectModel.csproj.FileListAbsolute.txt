@@ -1,0 +1,9 @@
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\ObjectModel.dll.config
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\ObjectModel.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\ObjectModel.pdb
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\EntityFramework.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\EntityFramework.xml
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\obj\Debug\ObjectModel.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\ObjectModel\obj\Debug\ObjectModel.pdb

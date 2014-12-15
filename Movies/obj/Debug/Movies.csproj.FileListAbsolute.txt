@@ -1,0 +1,12 @@
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\Movies.exe.config
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\Movies.exe
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\Movies.pdb
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\EntityFramework.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\ObjectModel.dll
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\ObjectModel.pdb
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\EntityFramework.xml
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\obj\Debug\Movies.exe
+c:\users\liconao\documents\visual studio 2013\Projects\ObjectModel\Movies\obj\Debug\Movies.pdb
